@@ -1,6 +1,6 @@
 StressBusterz
 
-This is an application built using Python and Flask and uses Google Cloud.
+This is an application built using Python, Flask and uses Google Cloud.
 <br />
 
 To run the application follow the following steps.
